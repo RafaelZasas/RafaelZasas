@@ -15,6 +15,7 @@ My name is Rafael Zasas and I'm a Full-Stack developer.
 
 - E-mail: admin@rafaelzasas.com
 - [Follow me on Linkedin](https://www.linkedin.com/in/rafael-zasas/)
+- [Checkout my Stack Overflow](https://stackoverflow.com/users/10673068/rafael-zasas)
 
 ## :heart: Things I like to do
 
