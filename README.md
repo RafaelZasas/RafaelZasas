@@ -6,8 +6,8 @@
 
 My name is Rafael Zasas and I'm a Full-Stack developer. 
 
-- 🔭 I am currently working with TypeScript, Angular, Flutter and Python.
-- 🌱 I’m currently learning React
+- 🔭 Currently working with Angular, ReactJs, NextJs (all TypeScript) and FastApi (Python).
+- 🌱 Currently learning GCP
 - 👯 I’m looking to collaborate on anything fun
 - ⚡ Fun fact: I was on the South African National Swimming Team
 
@@ -15,7 +15,7 @@ My name is Rafael Zasas and I'm a Full-Stack developer.
 
 - E-mail: admin@rafaelzasas.com
 - [Follow me on Linkedin](https://www.linkedin.com/in/rafael-zasas/)
-- [Checkout my Stack Overflow](https://stackoverflow.com/users/10673068/rafael-zasas)
+- [Checkout my blog](https://rafaelzasas.com/blog)
 
 ## :heart: Things I like to do
 
