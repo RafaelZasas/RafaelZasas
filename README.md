@@ -27,4 +27,4 @@ My name is Rafael Zasas and I'm a Full-Stack developer.
 ## :page_with_curl: My Stats 
 
 <img src="https://github-readme-stats.vercel.app/api?username=rafaelzasas&show_icons=true&theme=dark&count_private=true&border_radius=15&bg_color=30,38bdf8,2563eb&title_color=f1f5f9&text_color=f1f5f9">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelzasas&layout=compact&border_radius=15">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelzasas&layout=compact&border_radius=15&langs_count=8">
