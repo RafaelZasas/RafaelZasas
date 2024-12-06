@@ -4,27 +4,34 @@
   <img src="https://komarev.com/ghpvc/?username=RafaelZasas&color=blueviolet" alt="Raf's Profile Views" />
 </p>
 
-My name is Rafael Zasas and I'm a Full-Stack developer. 
+My name is Rafael Zasas, and I'm the founder of Protea Technology Services LLC, a software development agency specializing in custom web and mobile applications, and Hello Athlete Inc., a company dedicated to improving the financial wellbeing of athletes through technology.
 
-- 🔭 Currently working with Angular, ReactJs, NextJs (all TypeScript) and FastApi (Python).
-- 🌱 Currently learning GCP
-- 👯 I’m looking to collaborate on anything fun
-- ⚡ Fun fact: I was on the South African National Swimming Team
+- 💼 Currently working with Flutter, Next.js (TypeScript), Go, Turso, Fly.io and GCP for full-stack development.
+- 📘 Currently exploring the Zig programming language and advanced backend system design.
+- 🤝 I’m looking to collaborate on innovative projects involving drones, IoT, or creative app ideas.
+- 🏊 Fun fact: I was on the South African National Swimming Team and am now preparing for a sprint triathlon.
 
-## :point_right: :point_left: How to Contact me
+## 📬 How to Contact Me
 
-- E-mail: admin@rafaelzasas.com
-- [Follow me on Linkedin](https://www.linkedin.com/in/rafael-zasas/)
-- [Checkout my blog](https://rafaelzasas.com/blog)
+- [Follow me on LinkedIn](https://www.linkedin.com/in/rafael-zasas/)
+- [Check out my blog](https://rafaelzasas.com/blog)
 
-## :heart: Things I like to do
+## 💡 Things I Like to Do
 
-- :iphone: :computer: Create mobile and web applications
-- :flower_playing_cards: Create user interfaces
-- :bulb: Experiment new technologies and tools
-- :man: Help people and talk about tech
+- 🖥️ Develop robust and scalable mobile and web applications
+- 🎨 Design user-friendly and visually appealing interfaces
+- 🚀 Experiment with new programming languages and tools
+- 🌟 Mentor and collaborate with other developers
 
-## :page_with_curl: My Stats 
+## 📊 My Stats 
 
 <img src="https://github-readme-stats.vercel.app/api?username=rafaelzasas&show_icons=true&theme=dark&count_private=true&border_radius=15&bg_color=30,38bdf8,2563eb&title_color=f1f5f9&text_color=f1f5f9">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelzasas&layout=compact&border_radius=15&langs_count=8">
+
+## 🚧 Recent Projects
+
+- **Hello Athlete**: A Flutter app with Firebase backend, enabling users to connect and stay motivated to achieve their fitness goals.
+- **FlyView by Epic Drone Tours**: A platform for showcasing 360 media for real estate and commercial spaces using Next.js and Mux.
+- **Shaka**: A comprehensive drone surveillance system integrating web, mobile, and desktop apps with a Go backend and C++ drone software.
+
+Feel free to reach out if you want to discuss tech, collaborate on projects, or just connect!
