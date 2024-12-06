@@ -4,17 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=RafaelZasas&color=blueviolet" alt="Raf's Profile Views" />
 </p>
 
-My name is Rafael Zasas, and I'm the founder of Protea Technology Services LLC, a software development agency specializing in custom web and mobile applications, and Hello Athlete Inc., a company dedicated to improving the financial wellbeing of athletes through technology.
+My name is Rafael Zasas, and I'm the founder of [Protea Technology Services LLC](https://www.proteatech.dev), a software development agency specializing in custom web and mobile applications, and [Hello Athlete Inc.](https://www.helloathlete.app), a company dedicated to improving the financial wellbeing of athletes through technology.
 
 - 💼 Currently working with Flutter, Next.js (TypeScript), Go, Turso, Fly.io and GCP for full-stack development.
 - 📘 Currently exploring the Zig programming language and advanced backend system design.
 - 🤝 I’m looking to collaborate on innovative projects involving drones, IoT, or creative app ideas.
 - 🏊 Fun fact: I was on the South African National Swimming Team and am now preparing for a sprint triathlon.
-
-## 📬 How to Contact Me
-
-- [Follow me on LinkedIn](https://www.linkedin.com/in/rafael-zasas/)
-- [Check out my blog](https://rafaelzasas.com/blog)
 
 ## 💡 Things I Like to Do
 
@@ -33,5 +28,12 @@ My name is Rafael Zasas, and I'm the founder of Protea Technology Services LLC, 
 - **Hello Athlete**: A Flutter app with Firebase backend, enabling users to connect and stay motivated to achieve their fitness goals.
 - **FlyView by Epic Drone Tours**: A platform for showcasing 360 media for real estate and commercial spaces using Next.js and Mux.
 - **Shaka**: A comprehensive drone surveillance system integrating web, mobile, and desktop apps with a Go backend and C++ drone software.
+
+## 📬 How to Contact Me
+
+- [Follow me on LinkedIn](https://www.linkedin.com/in/rafael-zasas/)
+- [Follow Protea on LinkedIn](https://www.linkedin.com/company/protea-technology-services/)
+- [Follow Protea on Github](https://github.com/ProteaTech)
+- [Check out my blog](https://rafaelzasas.com/blog)
 
 Feel free to reach out if you want to discuss tech, collaborate on projects, or just connect!
